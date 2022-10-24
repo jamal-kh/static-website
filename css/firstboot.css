@@ -105,7 +105,7 @@ body{
     position: relative;
 }
 .our-work .box::before{
-    content: "Applicatio";
+    content: "Application";
     position: absolute;
     background: rgb(51 209 204 / 76%);
     width: calc(100% - 10px);
